@@ -11,4 +11,4 @@
   Esta funcion busca si los datos pasados como argumentos estan presentes en la base de datos proporcionada como argumento clave-valor
 
 ## AUTOR 
-   FRRANCO PAGOTTO
+   FRANCO PAGOTTO
