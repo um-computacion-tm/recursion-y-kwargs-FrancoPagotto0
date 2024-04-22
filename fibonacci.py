@@ -1,4 +1,3 @@
-import unittest
 
 def fibonacci(n):
     if n in (0,1):
